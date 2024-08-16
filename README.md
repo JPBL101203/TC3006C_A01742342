@@ -1,9 +1,22 @@
 En este repositorio se encuentran las siguientes carpetas:
 
     Portafolio_Analisis: Portafolio de Análisis de la clase TC3006C.101 del alumno A01742342
-        -Prueba.txt
-        -Titanic_A01742342.ipynb
+        -Estadistica: Parte del módulo de Estadística
+            *Prueba.txt
+        -Machine_Learning: Parte del módulo de Machine Learning
+            *Titanic_A01742342.ipynb
+        -Reto_Analisis: Parte del profesor de Reto
+            *Prueba5.txt
     Portafolio_Implementacion: Portafolio de Implementación de la clase TC3006C.101 del alumno A01742342
-        -Prueba2.txt
+        -Estadistica_Imp: Parte del módulo de Estadística
+            *Prueba2.txt
+        -Machine_Learning_Imp: Parte del módulo de Machine Learning
+            *Prueba4.txt
     Reto: Portafolio del Reto de la clase TC3006C.101 del alumno A01742342
-        -Prueba3.txt
+        -Hardware: Parte del módulo de Hardware
+            *Prueba3.txt
+        -Software: Parte del módulo de Software
+            *Prueba6.txt
+        -Reto_Reto: Parte del profesor de Reto
+            *Prueba7.txt
+
