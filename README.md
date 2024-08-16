@@ -12,6 +12,7 @@ En este repositorio se encuentran las siguientes carpetas:
             *Prueba5.txt
             
     Portafolio_Implementacion: Portafolio de Implementación de la clase TC3006C.101 del alumno A01742342
+    
         -Estadistica_Imp: Parte del módulo de Estadística
             *Prueba2.txt
             
@@ -19,6 +20,7 @@ En este repositorio se encuentran las siguientes carpetas:
             *Prueba4.txt
             
     Reto: Portafolio del Reto de la clase TC3006C.101 del alumno A01742342
+    
         -Hardware: Parte del módulo de Hardware
             *Prueba3.txt
             
