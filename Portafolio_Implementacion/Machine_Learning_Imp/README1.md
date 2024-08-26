@@ -1,4 +1,4 @@
 Archivo a revisar:
 
-    - Implementación.ipynb
-    - Implementación_AO1742342.pdf
+    - Imple_Scikit.ipynb
+    - Imple_Scikit_AO1742342.pdf
