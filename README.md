@@ -18,6 +18,11 @@ En este repositorio se encuentran las siguientes carpetas:
             
         -Machine_Learning_Imp: Parte del módulo de Machine Learning
             *Prueba4.txt
+            *README1.md
+            *Implementacion.ipynb
+            *Implementacion_A01742342.pdf
+            *Imple_Scikit.ipynb
+            *Imple_Scikit_A01742342.pdf
             
     Reto: Portafolio del Reto de la clase TC3006C.101 del alumno A01742342
     
