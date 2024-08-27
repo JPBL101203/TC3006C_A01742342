@@ -34,6 +34,6 @@ En este repositorio se encuentran las siguientes carpetas:
             *Prueba6.txt
             
         -Reto_Reto: Parte del profesor de Reto
-            *Prueba7.txt
+            *README3.md
             *RetoV2_Implementacion_Modelo.ipynb
 
