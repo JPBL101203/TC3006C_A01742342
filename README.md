@@ -9,7 +9,8 @@ En este repositorio se encuentran las siguientes carpetas:
             *Titanic_A01742342.ipynb
             
         -Reto_Analisis: Parte del profesor de Reto
-            *Prueba5.txt
+            *README2.md
+            *Etica_DecisionMaking_A01742342.pdf
             
     Portafolio_Implementacion: Portafolio de Implementación de la clase TC3006C.101 del alumno A01742342
     
@@ -34,4 +35,5 @@ En este repositorio se encuentran las siguientes carpetas:
             
         -Reto_Reto: Parte del profesor de Reto
             *Prueba7.txt
+            *RetoV2_Implementacion_Modelo.ipynb
 
