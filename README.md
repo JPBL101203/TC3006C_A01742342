@@ -7,6 +7,9 @@ En este repositorio se encuentran las siguientes carpetas:
             
         -Machine_Learning: Parte del módulo de Machine Learning
             *Titanic_A01742342.ipynb
+            *Desempeño_Modelo_A01742342.pdf
+            *Desempeño_Modelo_A01742342.ipynb
+            *README5.md
             
         -Reto_Analisis: Parte del profesor de Reto
             *README2.md
