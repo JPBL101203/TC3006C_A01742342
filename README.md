@@ -25,7 +25,7 @@ En este repositorio se encuentran las siguientes carpetas:
             *README1.md
             *Implementacion.ipynb
             *Implementacion_A01742342.pdf
-            *Imple_Scikit.ipynb
+            *Imple_Scikit (2).ipynb
             *Imple_Scikit_A01742342.pdf
             
     Reto: Portafolio del Reto de la clase TC3006C.101 del alumno A01742342
