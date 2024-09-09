@@ -4,6 +4,12 @@ En este repositorio se encuentran las siguientes carpetas:
     
         -Estadistica: Parte del módulo de Estadística
             *Prueba.txt
+            *VariableDiscreta_Problemillas_A01742342 (2).pdf
+            *2VariableContinua_A01742342.pdf
+            *3. Algunas Distribuciones Importantes de Probabilidades.pdf
+            *4_ExplorandoBases_A01742342 (1).pdf
+            *5_TransformacionesV2_A01742342 (1).pdf
+            *Actividad_Integradora_1_A01742342 (1).pdf
             
         -Machine_Learning: Parte del módulo de Machine Learning
             *Titanic_A01742342.ipynb
