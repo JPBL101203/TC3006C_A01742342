@@ -25,6 +25,14 @@ En este repositorio se encuentran las siguientes carpetas:
     
         -Estadistica_Imp: Parte del módulo de Estadística
             *Prueba2.txt
+            *6_Distribuciones_Muestrales_TCL_A01742342.pdf
+            *7_Intervalo_Confianza_A01742342.pdf
+            *8_Prueba_Hipotesis_A01742342.pdf
+            *9. ANOVA_A01742342.pdf
+            *10_Regresion_Lineal_A01742342.pdf
+            *11. Regresión Lineal con Interacción (1).pdf
+            *12. Análisis de los errores.pdf
+            *Act_Integradora2_A01742342.pdf
             
         -Machine_Learning_Imp: Parte del módulo de Machine Learning
             *Prueba4.txt
