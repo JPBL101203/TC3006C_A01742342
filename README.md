@@ -53,4 +53,5 @@ En este repositorio se encuentran las siguientes carpetas:
         -Reto_Reto: Parte del profesor de Reto
             *README3.md
             *RetoV2_Implementacion_Modelo.ipynb
+            *Reto_TC3006C_101.ipynb: Reporte final del proyecto
 
